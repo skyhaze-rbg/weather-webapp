@@ -1,0 +1,272 @@
+
+API_LINK_London = https://api.shecodes.io/weather/v1/forecast?query=london&key=b03a640e5ef6980o4da35b006t5f2942&units=metric
+API_LINK_Hongkong = https://api.shecodes.io/weather/v1/forecast?query=hongkong&key=b03a640e5ef6980o4da35b006t5f2942&units=metric
+
+
+{
+  "city": "London",
+  "country": "United Kingdom of Great Britain and Northern Ireland",
+  "coordinates": {
+  "longitude": -0.1276474,
+  "latitude": 51.5073219
+},
+  "daily": [
+  {
+  "condition": {
+  "description": "overcast clouds",
+  "icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/broken-clouds-day.png",
+  "icon": "broken-clouds-day"
+  },
+  "temperature": {
+  "day": 13.08,
+  "minimum": 9.74,
+  "maximum": 13.29,
+  "humidity": 80
+},
+  "wind": {
+  "speed": 4.66
+  },
+  "time": 1710849600
+  },
+  {
+  "condition": {
+  "description": "light rain",
+  "icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/rain-day.png",
+  "icon": "rain-day"
+},
+  "temperature": {
+  "day": 15.47,
+  "minimum": 10.24,
+  "maximum": 16.18,
+  "humidity": 65
+  },
+  "wind": {
+  "speed": 2.76
+  },
+  "time": 1710936000
+},
+{
+  "condition": {
+  "description": "overcast clouds",
+  "icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/broken-clouds-day.png",
+  "icon": "broken-clouds-day"
+  },
+  "temperature": {
+  "day": 13.01,
+  "minimum": 7.42,
+  "maximum": 15,
+  "humidity": 63
+},
+  "wind": {
+  "speed": 3.79
+  },
+  "time": 1711022400
+},
+{
+  "condition": {
+  "description": "light rain",
+  "icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/rain-day.png",
+  "icon": "rain-day"
+  },
+  "temperature": {
+  "day": 11.62,
+  "minimum": 7.53,
+  "maximum": 11.62,
+  "humidity": 71
+},
+  "wind": {
+  "speed": 4.75
+},
+  "time": 1711108800
+},
+{
+  "condition": {
+  "description": "light rain",
+  "icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/rain-day.png",
+  "icon": "rain-day"
+  },
+  "temperature": {
+  "day": 9.01,
+  "minimum": 3.66,
+  "maximum": 9.06,
+  "humidity": 52
+},
+  "wind": {
+  "speed": 6.8
+},
+  "time": 1711195200
+},
+{
+  "condition": {
+  "description": "light rain",
+  "icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/rain-day.png",
+  "icon": "rain-day"
+  },
+  "temperature": {
+  "day": 8.9,
+  "minimum": 3.49,
+  "maximum": 9.72,
+  "humidity": 58
+},
+  "wind": {
+  "speed": 5.96
+},
+  "time": 1711281600
+},
+{
+  "condition": {
+  "description": "overcast clouds",
+  "icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/broken-clouds-day.png",
+  "icon": "broken-clouds-day"
+  },
+  "temperature": {
+  "day": 10.76,
+  "minimum": 4.44,
+  "maximum": 11.17,
+  "humidity": 54
+},
+  "wind": {
+  "speed": 4.66
+},
+  "time": 1711368000
+}
+]
+}
+
+
+
+
+____________________________________________________________________________________________
+
+
+
+
+{
+"city": "Hong Kong Island",
+"country": "China",
+"coordinates": {
+"longitude": 114.1628131,
+"latitude": 22.2793278
+},
+"daily": [
+{
+"condition": {
+"description": "scattered clouds",
+"icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/scattered-clouds-day.png",
+"icon": "scattered-clouds-day"
+},
+"temperature": {
+"day": 19.99,
+"minimum": 18.33,
+"maximum": 20.25,
+"humidity": 58
+},
+"wind": {
+"speed": 7.67
+},
+"time": 1710907200
+},
+{
+"condition": {
+"description": "scattered clouds",
+"icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/scattered-clouds-day.png",
+"icon": "scattered-clouds-day"
+},
+"temperature": {
+"day": 20.03,
+"minimum": 18.23,
+"maximum": 20.23,
+"humidity": 62
+},
+"wind": {
+"speed": 8.08
+},
+"time": 1710993600
+},
+{
+"condition": {
+"description": "light rain",
+"icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/rain-day.png",
+"icon": "rain-day"
+},
+"temperature": {
+"day": 20.84,
+"minimum": 19.97,
+"maximum": 21.04,
+"humidity": 86
+},
+"wind": {
+"speed": 5.79
+},
+"time": 1711080000
+},
+{
+"condition": {
+"description": "light rain",
+"icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/rain-day.png",
+"icon": "rain-day"
+},
+"temperature": {
+"day": 22.87,
+"minimum": 21.74,
+"maximum": 23.26,
+"humidity": 81
+},
+"wind": {
+"speed": 4.73
+},
+"time": 1711166400
+},
+{
+"condition": {
+"description": "light rain",
+"icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/rain-day.png",
+"icon": "rain-day"
+},
+"temperature": {
+"day": 24.12,
+"minimum": 22.33,
+"maximum": 24.67,
+"humidity": 84
+},
+"wind": {
+"speed": 4.64
+},
+"time": 1711252800
+},
+{
+"condition": {
+"description": "overcast clouds",
+"icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/broken-clouds-day.png",
+"icon": "broken-clouds-day"
+},
+"temperature": {
+"day": 23.32,
+"minimum": 22.39,
+"maximum": 24.16,
+"humidity": 88
+},
+"wind": {
+"speed": 3.34
+},
+"time": 1711339200
+},
+{
+"condition": {
+"description": "sky is clear",
+"icon_url": "http://shecodes-assets.s3.amazonaws.com/api/weather/icons/clear-sky-day.png",
+"icon": "clear-sky-day"
+},
+"temperature": {
+"day": 24.46,
+"minimum": 22.38,
+"maximum": 25.11,
+"humidity": 79
+},
+"wind": {
+"speed": 5.92
+},
+"time": 1711425600
+}
+]
+}
